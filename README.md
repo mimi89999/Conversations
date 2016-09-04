@@ -2,7 +2,9 @@
 
 Conversations: the very last word in instant messaging
 
-[![Google Play](https://conversations.im/images/en-play-badge.png)](https://play.google.com/store/apps/details?id=eu.siacs.conversations&referrer=utm_source%3Dgithub) [![Amazon App Store](https://images-na.ssl-images-amazon.com/images/G/01/AmazonMobileApps/amazon-apps-store-us-black.png)](http://www.amazon.com/dp/B00WD35AAC/)
+[![Google Play](https://conversations.im/images/en-play-badge.png)](https://play.google.com/store/apps/details?id=eu.siacs.conversations&referrer=utm_source%3Dgithub) [![Amazon App Store](https://images-na.ssl-images-amazon.com/images/G/01/AmazonMobileApps/amazon-apps-store-us-black.png)](http://www.amazon.com/dp/B00WD35AAC/)[<img src="https://f-droid.org/badge/get-it-on.png"
+      alt="Get it on F-Droid"
+      height="80">](https://f-droid.org/app/eu.siacs.conversations)
 
 ![screenshots](https://raw.githubusercontent.com/siacs/Conversations/master/screenshots.png)
 
